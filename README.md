@@ -14,4 +14,4 @@ We are still learning about this field ourselves and will publish share our tuto
 > * [Code](), including a [notebook]() that attempts a walk though from scratch
 
 ### About Curation
-Curation Corp is an emerging and peripheral risks monitoring service, providing next generation intelligence to time-challenged professionals. We provide a scalable solution combining machine learning with human curators and experts to log, summarise and catalogue insights in a searchable archive. Curation’s ESG tracker can help clients stay effortlessly informed  on the development of environmental, social and governance related themes and trends.
+[Curation Corp](https://curationcorp.com) is an emerging and peripheral risks monitoring service, providing next generation intelligence to time-challenged professionals. We provide a scalable solution combining machine learning with human curators and experts to log, summarise and catalogue insights in a searchable archive. Curation’s ESG tracker can help clients stay effortlessly informed  on the development of environmental, social and governance related themes and trends.

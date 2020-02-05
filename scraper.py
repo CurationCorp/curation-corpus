@@ -6,7 +6,7 @@ import os
 import csv
 from sys import argv
 
-USAGE = """$ python async_scraper.py <batch_size> <path_to_dataset_without_bodies> <path_to_dataset_with_bodies>"""
+USAGE = """$ python async_scraper.py <batch_size> <path_without_bodies> <path_with_bodies>"""
 
 try:
     batch_size = int(argv[1])

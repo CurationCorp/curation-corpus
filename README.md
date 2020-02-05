@@ -1,4 +1,8 @@
-![Curation Logo](curationlogo.png)
+<p align="center">
+    <br>
+    <img src="curationlogo.png"/>
+    <br>
+<p>
 
 ## The Curation Corpus Dataset for Abstractive Text Summarisation
 The Curation Corpus is a collection of 40,000 professionally-written summaries of news articles, with links to the articles themselves. This repository provides a scraper to access them. If you're interested in commercial use or access to the wider catalogue of Curation data, including a larger set of over 150,000 professionally-written abstracts and a scalable, on-demand content abstraction API (driven by humans or AI), please get in touch. For our thoughts on how we hope this release will help the NLP community, see our [announcement here](https://medium.com/curation-corporation/teaching-an-ai-to-abstract-a-new-dataset-for-abstractive-auto-summarisation-5227f546caa8). 

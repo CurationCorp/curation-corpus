@@ -29,7 +29,6 @@ We are still learning about this field ourselves and will publish share our tuto
 
 ### License
 Please remember to attribute any derivative works in accordance with the terms of the CC-BY license. 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by].

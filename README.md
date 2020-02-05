@@ -33,6 +33,13 @@ We are still learning about this field ourselves and will publish share our tuto
 ### About Curation
 [Curation](https://curationcorp.com) is a SaaS business combining machine learning & human intelligence enabling executives to effortlessly follow emerging risks, themes and client activity with a particular focus on ESG-related issues. We enable businesses to act faster, delivering significant time and cost savings.
 
+### Citation
+@misc{curationcorpusbase:2020,
+  title={Curation Corpus Base},
+  author={Curation Corporation},
+  year={2020}
+}
+
 ### License
 Please remember to attribute any derivative works in accordance with the terms of the CC-BY license. 
 

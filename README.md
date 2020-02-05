@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <img src="curationlogo.png"/>
+    <img src="curationlogo.png" href="https://curationcorp.com"/>
     <br>
 </p>
 

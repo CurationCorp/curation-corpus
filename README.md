@@ -22,7 +22,7 @@ We are still learning about this field ourselves and will publish share our tuto
 
 **Finetuning the BertSumExtAbs model from [Liu and Lapata 2019](https://arxiv.org/abs/1908.08345)**
 > * [Medium post](https://medium.com/curation-corporation/fine-tuning-bert-for-abstractive-summarisation-with-the-curation-dataset-79ea4b40a923)
-> * [Code](), including a [notebook]() that attempts a walk though from scratch
+> * [A notebook](https://github.com/CurationCorp/summarisation/tree/master/finetuning-bertextabs) that attempts a walk though from scratch
 
 ### About Curation
 [Curation](https://curationcorp.com) is a SaaS business combining machine learning & human intelligence enabling executives to effortlessly follow emerging risks, themes and client activity with a particular focus on ESG-related issues. We enable businesses to act faster, delivering significant time and cost savings.

@@ -2,6 +2,7 @@
     <br>
     <a href="https://curationcorp.com" target="_blank">
     <img src="curationlogo.png"/>
+    </a>
     <br>
 </p>
 

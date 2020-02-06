@@ -25,7 +25,7 @@ The Curation Corpus is a collection of 40,000 professionally-written summaries o
 > * Run `scraper.py`. Larger batch sizes will make it run faster but it may drop more articles due to timeouts. I recommend ~50 on a 2015 Macbook Pro. 
 
 ### Tutorials
-We are still learning about this field ourselves and will share our tutorials in the examples folder. If you use our dataset in your own research, write a tutorial, or have anything you would like to share, let us know and we will link to it from here!
+We are still learning about this field ourselves and will share our tutorials in the [examples folder](https://github.com/CurationCorp/curation-corpus/tree/master/examples). If you use our dataset in your own research, write a tutorial, or have anything you would like to share, let us know and we will link to it from here!
 
 ### About Curation
 [Curation](https://curationcorp.com) is a SaaS business combining machine learning & human intelligence enabling executives to effortlessly follow emerging risks, themes and client activity with a particular focus on ESG-related issues. We enable businesses to act faster, delivering significant time and cost savings.

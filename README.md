@@ -22,13 +22,13 @@ The Curation Corpus is a collection of 40,000 professionally-written summaries o
 ### Instructions
 > * Clone this repository (or just copy the code from scraper.py)
 > * Download the urls, headlines, and summaries from [here](https://curation-datasets.s3-eu-west-1.amazonaws.com/curation-corpus-base.csv)
-> * Run `scraper.py`. Give as command line arguments the path to the csv file without article text, the path to a new csv file which will have article text, and a batch size to determine how many urls it will scrape at a time. Larger batch sizes will make it run faster but it may drop more articles due to timeouts. I recommend ~50 on a 2015 Macbook Pro. 
+> * Run `web_scraper.py`. Give as command line arguments the path to the csv file without article text, the path to a new csv file which will have article text, and a batch size to determine how many urls it will scrape at a time. Larger batch sizes will make it run faster but it may drop more articles due to timeouts. I recommend ~50 on a 2015 Macbook Pro. 
 
 ```shell
 git clone https://github.com/CurationCorp/curation-corpus.git
 cd curation-corpus
 wget https://curation-datasets.s3-eu-west-1.amazonaws.com/curation-corpus-base.csv
-python scraper.py curation-corpus-base.csv curation-corpus-base-with-articles.csv 50
+python web_scraper.py curation-corpus-base.csv curation-corpus-base-with-articles.csv 50
 ```
 
 Some urls will return messy results due to content changing over time, paywalls, etc. We've tried to remove the worst offenders from this release. There is probably still scope though for improving the scraper though.

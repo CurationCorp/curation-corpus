@@ -1,0 +1,6 @@
+aiohttp
+asyncio
+bs4
+fastprogress
+pandas
+readability-lxml

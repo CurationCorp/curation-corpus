@@ -16,3 +16,5 @@
 **/*.story
 **/*.npy
 **/*.tgz
+
+!requirements.txt

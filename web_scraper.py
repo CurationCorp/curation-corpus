@@ -43,7 +43,7 @@ def scrape(urls, batch_size, output_path):
     with open(output_path, 'w') as o:
         csvwriter = csv.writer(o)
         csvwriter.writerow(['url', 'html'])
-        for i in progress_bar(range(0, 100, batch_size)):
+        for i in progress_bar(range(0, len(urls), batch_size)):
             loop = asyncio.get_event_loop()
             future = asyncio.ensure_future(
                 run(urls[i:i+batch_size], csvwriter))
@@ -75,6 +75,7 @@ def get_article_bodies(input_path, output_path, batch_size):
     df = pd.read_csv(output_path)
     df = extract_content(df)
     df.to_csv(output_path, index=False)
+    print()
 
    
 if __name__ == "__main__":

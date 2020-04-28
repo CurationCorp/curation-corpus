@@ -43,7 +43,7 @@ We are still learning about this field ourselves and will share our tutorials in
 ```
 @misc{curationcorpusbase:2020,
   title={Curation Corpus Base},
-  author={Curation Corporation},
+  author={Curation},
   year={2020}
 }
 ```

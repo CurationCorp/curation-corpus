@@ -1,6 +1,3 @@
-aiohttp
-asyncio
-bs4
-fastprogress
+newspaper3k
 pandas
-readability-lxml
+typer

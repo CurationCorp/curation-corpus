@@ -27,13 +27,13 @@ The Curation Corpus is a collection of 40,000 professionally-written summaries o
 git clone git@github.com:CurationCorp/curation-corpus.git && cd curation-corpus
 ```
 
-> - Download the article titles, summaries, urls, and dates
+- Download the article titles, summaries, urls, and dates
 
 ```shell
 wget https://curation-datasets.s3-eu-west-1.amazonaws.com/curation-corpus-base.csv
 ```
 
-> - Download the article content
+- Download the article content
 
 ```shell
 python web_scraper.py [FILE_WITHOUT_ARTICLE_CONTENT] [FILE_WITH_ARTICLE_CONTENT]
